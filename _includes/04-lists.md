@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+Ordered List
+1.  Chicago
+2.  New York
+3.  Encinitas
+4.  Sedona
